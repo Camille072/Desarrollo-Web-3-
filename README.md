@@ -29,4 +29,4 @@ El stack tecnológico principal de estos proyectos incluye:
 * **Gestión de Estado:** Uso de `useContext` para manejar el estado global de los productos y el carrito.
 
 ---
-*Desarrollado por [CGR] - 2025*
+*Desarrollado por [CGR] - 2024*
