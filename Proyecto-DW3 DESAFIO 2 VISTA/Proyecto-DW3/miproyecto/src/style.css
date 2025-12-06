@@ -1,0 +1,30 @@
+h1 {
+    color: darkgreen;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cabezera {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*COMP - PARRAFO*/
+
+.cajita{
+    background-color: olive;
+    border: 2px olivedrab;
+}
+
+.cajita h2{
+    color: darkslategrey;
+    font-weight: bolder
+}
+

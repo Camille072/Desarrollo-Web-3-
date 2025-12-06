@@ -1,0 +1,57 @@
+
+
+.cargar-producto-container {
+    padding: 20px;
+    background-color: rgb(240, 240, 247);
+}
+
+.cargar-producto-form {
+    max-width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #38337e;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agregando sombra */
+}
+
+.cargar-producto-form h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #38337e; /* Cambiando color del título */
+}
+
+.cargar-producto-form label {
+    display: block;
+    margin-bottom: 10px;
+    color: #38337e; /* Cambiando color de las etiquetas */
+}
+
+.cargar-producto-form input,
+.cargar-producto-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #38337e;
+    border-radius: 4px;
+    font-size: 1rem; 
+}
+
+.cargar-producto-form textarea {
+    resize: vertical; 
+
+.btn-cargar-producto {
+    background-color: #38337e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem; 
+}
+
+.btn-cargar-producto:hover {
+    background-color: #0f161f;
+}
+
+}

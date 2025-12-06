@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(6, 15, 43); 
+    color: #fff3bc; 
+  }
+  
+ 
+  h1, h2, h3 {
+    color: #fff3bc; 
+  }
+
+.Contador{
+    color: #fff3bc; 
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .button{
+    font-family: 'Times New Roman', Times, serif;
+  }
